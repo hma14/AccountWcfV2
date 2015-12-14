@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountWcfV2", "AccountWcfV2\AccountWcfV2.csproj", "{5725F625-F03D-4AA1-BC2A-016B6E4F0ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{B7E534F4-1AAB-4ABE-BB0E-B81E43B793CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5725F625-F03D-4AA1-BC2A-016B6E4F0ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5725F625-F03D-4AA1-BC2A-016B6E4F0ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5725F625-F03D-4AA1-BC2A-016B6E4F0ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5725F625-F03D-4AA1-BC2A-016B6E4F0ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E534F4-1AAB-4ABE-BB0E-B81E43B793CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E534F4-1AAB-4ABE-BB0E-B81E43B793CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E534F4-1AAB-4ABE-BB0E-B81E43B793CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E534F4-1AAB-4ABE-BB0E-B81E43B793CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
